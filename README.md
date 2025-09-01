@@ -1,7 +1,7 @@
 # DeliveryGo
 
 <div style="text-align: center;">
-  <img src="app-icon1.png" alt="Icona dell'applicazione" width="250"/>
+  <img src="app-icon.png" alt="Icona dell'applicazione" width="250"/>
 </div>
 
 ## Descrizione del progetto
