@@ -71,7 +71,7 @@ L'app comunica con il **backend** tramite API RESTful sicure. Il sistema di noti
 ## Repository dei Componenti
 
 ### Componenti del Sistema:
-- **PositionService**: [Repository PositionService](https://github.com/tuo-nome/PositionService)
+- **PositionService**: [Repository PositionService](https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-PositionService-MandorinoSettimo)
 - **DeliveryService**: [Repository DeliveryService](https://github.com/tuo-nome/DeliveryService)
 - **VehicleRoutingService**: [Repository VehicleRoutingService](https://github.com/tuo-nome/VehicleRoutingService)
 - **NotificationService**: [Repository NotificationService](https://github.com/tuo-nome/NotificationService)
@@ -86,7 +86,7 @@ L'app comunica con il **backend** tramite API RESTful sicure. Il sistema di noti
 Il **PositionService** gestisce tutto ciò che riguarda gli utenti del sistema, incluse le operazioni di registrazione, autenticazione, autorizzazione e aggiornamento del profilo. 
 
 ### Funzionalità di **PositionService**:
-- **Registrazione Utente**: Consente la registrazione di nuovi utenti (camionisti).
+- **Registrazione Utente**: Consente la registrazione di nuovi utenti (camionisti), con l'invio di un'email di conferma.
 - **Login**: Fornisce un endpoint di login per consentire agli utenti di accedere al sistema.
 - **Aggiornamento Profilo**: Gli utenti possono aggiornare i propri dettagli personali come nome, cognome, numero di telefono e genere..
 - **Cambio password**: Se l'utente ha dimenticato la propria password, può chiederne il cambio: inserendo l'email verrà inviato un codice per il reset della password. Se invece l'utente vuole semplicemente cambiare password può farlo accedendo all'interno del suo profilo e modificando la password, inserendo prima la vecchia.
