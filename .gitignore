@@ -123,6 +123,6 @@ fabric.properties
 
 #altro
 application.properties
-build.gradle
+positionservice/build.gradle
 docker-compose.yml
 
