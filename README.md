@@ -54,7 +54,7 @@ L'app mobile, sviluppata con **React Native**, consente ai camionisti di:
 
 - Gestire il proprio profilo.
 - Visualizzare la rotta ottimizzata.
-- Ricevere notifiche push in caso di anomalie.
+- Ricevere notifiche push a tratta assegnata
 - Aggiornare la propria posizione in tempo reale.
 
 Mentre consente agli admin di:
@@ -62,7 +62,7 @@ Mentre consente agli admin di:
 - Creare e gestire veicoli, ordini e rotte.
 - Assegnare tratte ai camionisti.
 - Visualizzare lo stato di ordini e veicoli.
-- Intervenire, qualora fosse presente un'anomalia, in maniera immediata.
+- Gestione automatica delle anomalie
   
 L'app comunica con il **backend** tramite API RESTful sicure. Il sistema di notifica è integrato con **Firebase Cloud Messaging (FCM)** per inviare alert sui cambiamenti in tempo reale.
 
