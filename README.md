@@ -88,7 +88,7 @@ Il **PositionService** gestisce tutto ciò che riguarda gli utenti del sistema, 
 ### Funzionalità di **PositionService**:
 - **Registrazione Utente**: Consente la registrazione di nuovi utenti (camionisti), con l'invio di un'email di conferma.
 - **Login**: Fornisce un endpoint di login per consentire agli utenti di accedere al sistema.
-- **Aggiornamento Profilo**: Gli utenti possono aggiornare i propri dettagli personali come nome, cognome, numero di telefono e genere..
+- **Aggiornamento Profilo**: Gli utenti possono aggiornare i propri dettagli personali come nome, cognome, numero di telefono e genere.
 - **Cambio password**: Se l'utente ha dimenticato la propria password, può chiederne il cambio: inserendo l'email verrà inviato un codice per il reset della password. Se invece l'utente vuole semplicemente cambiare password può farlo accedendo all'interno del suo profilo e modificando la password, inserendo prima la vecchia.
   
 Il **PositionService** è un componente fondamentale per il funzionamento del sistema, in quanto permette di creare il profilo utente del camionista, che si rende disponibile a ricevere delle tratte.
